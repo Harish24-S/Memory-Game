@@ -11,7 +11,7 @@
 .container .found {
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
-    background: rgba(189, 224, 254, 0.46);
+    background: rgba(85, 173, 250, 0.46);
 }
 
 .card {
